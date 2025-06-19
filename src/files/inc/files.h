@@ -2,6 +2,8 @@
 #define FILES_H
 
 #include <stdio.h>
+#include <directories.h>
+#include <path_handling.h>
 
 int createFile(char* path);
 
